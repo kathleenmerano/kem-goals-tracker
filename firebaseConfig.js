@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
-// Your web app's Firebase configuration
+// Your web app's Firebase configurationdfdsfdsf
 const firebaseConfig = {
   apiKey: "AIzaSyBupRb0Csv9hv-19uESJmf8i0zY9E8McTM",
   authDomain: "kem-goal-tracker.firebaseapp.com",
